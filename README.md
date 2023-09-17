@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="150" src="https://lh3.googleusercontent.com/cc1ItZpvab-fEzvJ5J48dINI3gQQ4M8fzvyttKbnm_TpeIj3LMRrKVPh6FfkldQvV0a3=s85"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="15" />
