@@ -38,15 +38,13 @@
 
 ### 🌐 Let's Connect!
 <div align="left">
-  <a href="https://www.linkedin.com/in/royson-salis-3ab32628a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/royson-salis-3ab32628a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img width="12" />
-  <a href="https://www.instagram.com/royson._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  <a href="https://www.instagram.com/royson._/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img width="12" />
-  <a href="mailto:roysonsalis2005@gmail.com?&subject=Hello%20Royson&body=Hi%20there," target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:roysonsalis2005@gmail.com?&subject=Hello%20Royson&body=Hi%20there," target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
