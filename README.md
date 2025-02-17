@@ -1,84 +1,58 @@
-# Hi 👋, I'm Royson Salis
+<h2 align="left">Hi 👋! I'm Royson Salis</h2>
+<h3>A passionate web developer crafting digital experiences from India 🚀</h3>
 
-<div align="right">
-  <img width="400" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="coding"/>
+###
+<div align="left">
+  <p>🌱 Currently exploring the depths of <strong>React.js</strong> and <strong>TypeScript</strong></p>
+  <p>💻 Building exciting web projects and learning new technologies</p>
+  <p>👥 Open to collaborating on innovative web development projects</p>
 </div>
 
-A passionate developer from India exploring the realms of web development and artificial intelligence.
+<img align="right" height="180" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
-## 🎯 Current Focus
-- Working on Web Development Projects
-- Diving deep into React.js and TypeScript
-- Looking to collaborate on Open Source Projects
-- Exploring Machine Learning & AI implementations
+### 🛠 Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-## 💫 Player Class Abilities
-### 🌐 Web Development
-- Frontend: React.js, HTML5, CSS3, JavaScript, TypeScript
-- Backend: Node.js, Flask, ASP.NET
-- Full Stack Development
-
-### 🤖 AI & Data
-- Machine Learning & Deep Learning
-- Neural Networks
-- Exploratory Data Analysis
-- Computer Vision
-
-### 💾 Databases & Systems
-- Microsoft SQL Server
-- Database Architecture
-- IoT & Sensor Integration
-- Embedded Systems
-
-## 🏆 Main Quests (Projects)
-### NutriTech AI Platform
-- AI-powered crop disease detection
-- React.js dashboard for farmers
-- Flask & MySQL backend
-
-### Medical Imaging AI (Cikitsa.ai)
-- IR-based medical imaging research
-- AI models for image analysis
-- Healthcare professional collaboration
-
-### Enterprise Asset Management
-- ASP.NET & SQL Server backend
-- Database architecture for enterprise
-- Maintenance tracking system
-
-## 🎓 Achievement Unlocked
-- Exploratory Data Analysis for Machine Learning (IBM)
-- Neural Networks and Deep Learning (Coursera)
-
-## 📫 Communication Crystal
+### 🌐 Let's Connect!
 <div align="left">
   <a href="https://www.linkedin.com/in/royson-salis-3ab32628a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
+  <img width="12" />
   <a href="https://www.instagram.com/royson._/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <img width="12" />
+  <a href="mailto:roysonsalis2005@gmail.com?&subject=Hello%20Royson&body=Hi%20there," target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
-## 🛠️ Arsenal of Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-</div>
-
-## 📊 Battle Statistics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysonsalis&layout=compact&theme=dark&hide_border=true" alt="Most used languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=roysonsalis&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roysonsalis&theme=dark&hide_border=true" alt="GitHub streak stats"/>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roysonsalis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysonsalis&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
-📧 **Quest Contact**: roysonsalis2005@gmail.com
+<div align="center">
+  <img src="https://profile-counter.glitch.me/roysonsalis/count.svg" alt="Visitor Count"  />
+</div>
