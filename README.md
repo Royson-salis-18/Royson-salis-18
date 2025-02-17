@@ -36,7 +36,7 @@
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   
   </a>
-  <a href="mailto:roysonsalis2005@gmail.com?cc=cc@gmail.com&bcc=bcc@example.com&subject=Hello%20There&body=This%20is%20the%20message%0A%0ARegards" target="_blank">
+  <a href="mailto:roysonsalis2005@gmail.com?&subject=Hello%20There&body=This%20is%20the%20message%0A%0ARegards" target="_blank">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
 </div>
