@@ -1,23 +1,56 @@
 # Hi 👋, I'm Royson Salis
 
-A passionate web developer from India
-
-<div align="left">
-  <img align="right" width="400" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="coding"/>
+<div align="right">
+  <img width="400" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="coding"/>
 </div>
 
-👨‍💻 I'm currently working on **Web Development Projects**
+A passionate developer from India exploring the realms of web development and artificial intelligence.
 
-🌱 I'm currently learning **React.js, TypeScript**
+## 🎯 Current Focus
+- Working on Web Development Projects
+- Diving deep into React.js and TypeScript
+- Looking to collaborate on Open Source Projects
+- Exploring Machine Learning & AI implementations
 
-👥 I'm looking to collaborate on **Open Source Projects**
+## 💫 Player Class Abilities
+### 🌐 Web Development
+- Frontend: React.js, HTML5, CSS3, JavaScript, TypeScript
+- Backend: Node.js, Flask, ASP.NET
+- Full Stack Development
 
-💬 Ask me about **HTML, CSS, JavaScript, React**
+### 🤖 AI & Data
+- Machine Learning & Deep Learning
+- Neural Networks
+- Exploratory Data Analysis
+- Computer Vision
 
-📫 How to reach me **roysonsalis2005@gmail.com**
+### 💾 Databases & Systems
+- Microsoft SQL Server
+- Database Architecture
+- IoT & Sensor Integration
+- Embedded Systems
 
-## Connect with me:
+## 🏆 Main Quests (Projects)
+### NutriTech AI Platform
+- AI-powered crop disease detection
+- React.js dashboard for farmers
+- Flask & MySQL backend
 
+### Medical Imaging AI (Cikitsa.ai)
+- IR-based medical imaging research
+- AI models for image analysis
+- Healthcare professional collaboration
+
+### Enterprise Asset Management
+- ASP.NET & SQL Server backend
+- Database architecture for enterprise
+- Maintenance tracking system
+
+## 🎓 Achievement Unlocked
+- Exploratory Data Analysis for Machine Learning (IBM)
+- Neural Networks and Deep Learning (Coursera)
+
+## 📫 Communication Crystal
 <div align="left">
   <a href="https://www.linkedin.com/in/royson-salis-3ab32628a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -27,8 +60,7 @@ A passionate web developer from India
   </a>
 </div>
 
-## Languages and Tools:
-
+## 🛠️ Arsenal of Tools
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
@@ -41,15 +73,12 @@ A passionate web developer from India
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
 </div>
 
-## Most Used Languages
-
+## 📊 Battle Statistics
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysonsalis&layout=compact&theme=dark&hide_border=true" alt="Most used languages"/>
-</div>
-
-## GitHub Stats
-
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=roysonsalis&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roysonsalis&theme=dark&hide_border=true" alt="GitHub streak stats"/>
 </div>
+
+---
+📧 **Quest Contact**: roysonsalis2005@gmail.com
