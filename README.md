@@ -8,7 +8,7 @@
   <p>👥 Open to collaborating on innovative web development projects</p>
 </div>
 
-<img align="right" height="180" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ### 🛠 Tech Stack
 <div align="left">
@@ -44,15 +44,4 @@
   <a href="mailto:roysonsalis2005@gmail.com?&subject=Hello%20Royson&body=Hi%20there," target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-</div>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roysonsalis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysonsalis&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
----
-<div align="center">
-  <img src="https://profile-counter.glitch.me/roysonsalis/count.svg" alt="Visitor Count"  />
 </div>
