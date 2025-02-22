@@ -2,9 +2,6 @@
 
 <div align="center">
   <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Coding GIF" width="450" height="270" style="border-radius: 30px; margin-left: 50px; padding-left: 20px;" />
-  <
-
-
 </div>
 
 ### A passionate web developer crafting digital experiences from India 🚀
@@ -35,6 +32,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs"  />
 </div>
+
+### 📈 GitHub Stats
+![Royson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royson-salis-18&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Royson-salis-18&layout=compact&theme=radical)
 
 ### 🌐 Let's Connect!
 <div align="left">
