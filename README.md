@@ -1,7 +1,7 @@
 # Hi 👋! I'm Royson Salis
 
 <div align="center">
-  <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Coding GIF" width="450" height="270" style="border-radius: 30px; margin-left: 50px; padding-left: 20px;" />
+  <img align="right" src="https://pin.it/5E5pRLsuS" alt="Coding GIF" width="450" height="270" style="border-radius: 30px; margin-left: 50px; padding-left: 20px;" />
 </div>
 
 ### A passionate web developer crafting digital experiences from India 🚀
