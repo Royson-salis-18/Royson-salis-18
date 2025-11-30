@@ -34,9 +34,10 @@
 </div>
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sh4dy.vercel.app/api?username=Royson-salis-18&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-nine-pi-98.vercel.app/api?username=Royson-salis-18&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-sh4dy.vercel.app/api/top-langs/?username=Royson-salis-18&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-nine-pi-98.vercel.app/api/top-langs/?username=Royson-salis-18&layout=compact&theme=radical)
+
 
 
 
