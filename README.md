@@ -34,9 +34,8 @@
 </div>
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats-nine-pi-98.vercel.app/api?username=Royson-salis-18&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/Royson-salis-18?template=classic&base.header=0&languages=1)
 
-![Top Langs](https://github-readme-stats-nine-pi-98.vercel.app/api/top-langs/?username=Royson-salis-18&layout=compact&theme=radical)
 
 
 
