@@ -34,8 +34,10 @@
 </div>
 
 ### 📈 GitHub Stats
-![Royson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Royson-salis-18&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Royson-salis-18&layout=compact&theme=radical)
+![Royson's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=Royson-salis-18&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Royson-salis-18&layout=compact&theme=radical)
+
 
 ### 🌐 Let's Connect!
 <div align="left">
