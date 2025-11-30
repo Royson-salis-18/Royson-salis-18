@@ -36,6 +36,9 @@
 ### 📈 GitHub Stats
 ![Metrics](https://metrics.lecoq.io/Royson-salis-18?template=classic&base.header=0&languages=1)
 
+![Streak Stats](https://streak-stats.demolab.com/?user=Royson-salis-18&theme=radical&hide_border=true)
+
+
 
 
 
